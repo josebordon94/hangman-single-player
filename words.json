@@ -1,0 +1,202 @@
+[
+    {
+        "id" : 1,
+        "name"  : "caballo"
+    },
+    {
+        "id" : 2,
+        "name"  : "televisor"
+    },
+    {
+        "id" : 3,
+        "name"  : "zapallo"
+    },
+    {
+        "id" : 4,
+        "name"  : "parlante"
+    },
+    {
+        "id" : 5,
+        "name"  : "analgesico"
+    },
+    {
+        "id" : 6,
+        "name"  : "cuentagotas"
+    },
+    {
+        "id" : 7,
+        "name"  : "lombriz"
+    },
+    {
+        "id" : 8,
+        "name"  : "milanesa"
+    },
+    {
+        "id" : 9,
+        "name"  : "marinero"
+    },
+    {
+        "id" : 10,
+        "name"  : "tomate"
+    },
+    {
+        "id" : 11,
+        "name"  : "libro de cuentos"
+    },
+    {
+        "id" : 12,
+        "name"  : "parlamento"
+    },
+    {
+        "id" : 13,
+        "name"  : "computacion"
+    },
+    {
+        "id" : 14,
+        "name"  : "amistad"
+    },
+    {
+        "id" : 15,
+        "name"  : "generacion"
+    },
+    {
+        "id" : 16,
+        "name"  : "oxigeno"
+    },
+    {
+        "id" : 17,
+        "name"  : "saxofon"
+    },
+    {
+        "id" : 18,
+        "name"  : "caverna"
+    },
+    {
+        "id" : 19,
+        "name"  : "rock alternativo"
+    },
+    {
+        "id" : 20,
+        "name"  : "guitarra electrica"
+    },
+    {
+        "id" : 21,
+        "name"  : "piano"
+    },
+    {
+        "id" : 22,
+        "name"  : "queso gruyere"
+    },
+    {
+        "id" : 23,
+        "name"  : "damas chinas"
+    },
+    {
+        "id" : 24,
+        "name"  : "canasta"
+    },
+    {
+        "id" : 25,
+        "name"  : "barra de tragos"
+    },
+    {
+        "id" : 26,
+        "name"  : "caja de madera"
+    },
+    {
+        "id" : 27,
+        "name"  : "motocicleta"
+    },
+    {
+        "id" : 28,
+        "name"  : "cirujano"
+    },
+    {
+        "id" : 29,
+        "name"  : "europeo"
+    },
+    {
+        "id" : 30,
+        "name"  : "musica"
+    },
+    {
+        "id" : 31,
+        "name"  : "show de television"
+    },
+    {
+        "id" : 32,
+        "name"  : "programacion"
+    },
+    {
+        "id" : 33,
+        "name"  : "tecnologia"
+    },
+    {
+        "id" : 34,
+        "name"  : "ahorcado"
+    },
+    {
+        "id" : 35,
+        "name"  : "matematica"
+    },
+    {
+        "id" : 36,
+        "name"  : "manzana roja"
+    },
+    {
+        "id" : 37,
+        "name"  : "banana"
+    },
+    {
+        "id" : 38,
+        "name"  : "quimica"
+    },
+    {
+        "id" : 39,
+        "name"  : "telefono celular"
+    },
+    {
+        "id" : 40,
+        "name"  : "pastel de calabaza"
+    },
+    {
+        "id" : 41,
+        "name"  : "lapislazuli"
+    },
+    {
+        "id" : 42,
+        "name"  : "diamante"
+    },
+    {
+        "id" : 43,
+        "name"  : "arandanos"
+    },
+    {
+        "id" : 44,
+        "name"  : "baloncesto"
+    },
+    {
+        "id" : 45,
+        "name"  : "olimpiadas"
+    },
+    {
+        "id" : 46,
+        "name"  : "papel higienico"
+    },
+    {
+        "id" : 47,
+        "name"  : "alerta roja"
+    },
+    {
+        "id" : 48,
+        "name"  : "electromagnetismo"
+    },
+    {
+        "id" : 49,
+        "name"  : "cientifico"
+    },
+    {
+        "id" : 50,
+        "name"  : "barbijo"
+    }
+]

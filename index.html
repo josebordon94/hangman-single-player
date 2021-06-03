@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Javascript Hangman game</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 class="text-center mt-sm-2 mt-md-4">Juego del ahorcado</h1>
+        </header>
+        <div class="row d-flex justify-content-center">
+            <div class="col-sm-12 col-md-8 col-lg-5">
+                <canvas id="canvas"></canvas>
+            </div>
+            <div class="col-12 d-flex justify-content-center mt-sm-0 mt-md-3">
+                <p id="word" class="text-center"></p>
+            </div>
+        </div>
+        <div class="row mt-sm-0 mt-md-2 d-flex justify-content-center">
+            <div class="col-sm-12 col-md-8 d-flex justify-content-center flex-wrap" id="letters">
+                <button class="btn  btn-primary letter">A</button>
+                <button class="btn  btn-primary letter">B</button>
+                <button class="btn  btn-primary letter">C</button>
+                <button class="btn  btn-primary letter">D</button>
+                <button class="btn  btn-primary letter">E</button>
+                <button class="btn  btn-primary letter">F</button>
+                <button class="btn  btn-primary letter">G</button>
+                <button class="btn  btn-primary letter">H</button>
+                <button class="btn  btn-primary letter">I</button>
+                <button class="btn  btn-primary letter">J</button>
+                <button class="btn  btn-primary letter">K</button>
+                <button class="btn  btn-primary letter">L</button>
+                <button class="btn  btn-primary letter">M</button>
+                <button class="btn  btn-primary letter">N</button>
+                <button class="btn  btn-primary letter">Ñ</button>
+                <button class="btn  btn-primary letter">O</button>
+                <button class="btn  btn-primary letter">P</button>
+                <button class="btn  btn-primary letter">Q</button>
+                <button class="btn  btn-primary letter">R</button>
+                <button class="btn  btn-primary letter">S</button>
+                <button class="btn  btn-primary letter">T</button>
+                <button class="btn  btn-primary letter">U</button>
+                <button class="btn  btn-primary letter">V</button>
+                <button class="btn  btn-primary letter">W</button>
+                <button class="btn  btn-primary letter">X</button>
+                <button class="btn  btn-primary letter">Y</button>
+                <button class="btn  btn-primary letter">Z</button>
+            </div>
+        </div>
+        <div class="col-12 d-flex justify-content-center mt-1 mt-md-3">
+            <button class="btn btn-success px-4" id="newGameBtn">¡Nuevo juego!</button>
+        </div>
+    </div>
+<script src="hangman.js" type="module"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+
+</body>
+</html>
