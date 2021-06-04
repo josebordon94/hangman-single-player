@@ -3,7 +3,8 @@ const canvas = document.getElementById('canvas');
 function clearCanvas(){
     if (canvas.getContext) {
         var ctx = canvas.getContext('2d');
-        ctx.fillStyle = 'white';
+        ctx.strokeStyle= "#264653"
+        ctx.fillStyle = '#F4A261';
         ctx.fillRect(0, 0, canvas.width, canvas.height);
     }
 }
@@ -113,7 +114,7 @@ function printGameState(num){
     clearCanvas()
     ctx.lineWidth = 2.5;
     drawGallow(65,135)
-    ctx.strokeStyle= "blue"
+    ctx.strokeStyle= "#2A9D8F"
     //We need to print all the body parts of the game in this current moment
     if(num == 0) return
     drawHead(165,34)
@@ -136,7 +137,7 @@ function printWinScreen(){
     clearCanvas()
     ctx.lineWidth = 2.5;
     drawGallow(65,135)
-    ctx.strokeStyle= "blue"
+    ctx.strokeStyle= "#2A9D8F"
     //Print the man happy and safe standing at the ground
     const dy = 15
     drawHead(165,34 +dy)

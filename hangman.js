@@ -90,11 +90,11 @@ function disableLetter(item, match){
   item.style.borderColor = "black"
   if (match){
     item.style.color = "blue"
-    item.style.backgroundColor = "#00ff00"
+    item.style.backgroundColor = "#2A9D8F"
 
   } else {
     item.style.color = "white"
-    item.style.backgroundColor = "red"
+    item.style.backgroundColor = "#E76F51"
   }
 }
 
@@ -103,7 +103,7 @@ function newGame(){
     item.removeAttribute('disabled');
     item.style.color = "white"
     item.style.borderColor = "black"
-    item.style.backgroundColor = "royalblue"
+    item.style.backgroundColor = "#264653"
   })
   missedLetters = 0
   console.log("Missed letters: ", missedLetters)

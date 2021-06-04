@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(233, 184, 111);
+    background-color: #E9C46A;
 }
 
 canvas{
@@ -11,12 +11,16 @@ canvas{
     border-color: black;
 }
 
+#title{
+    font-family: 'Holtwood One SC', serif;
+}
+
 .btn-primary{
     font-weight: bold;
     width: 45px;
     font-size: larger;
     margin: 0.2em;
-    background-color: royalblue;
+    background-color: #2A9D8F;
     border-color: black;
 }
 
@@ -24,6 +28,7 @@ canvas{
     font-weight: bold;
     font-size: 1.2em;
     border-color: black;
+    background-color: #2A9D8F;
 }
 
 @media screen and (min-width: 601px) {
